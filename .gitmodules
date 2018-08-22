@@ -1,0 +1,3 @@
+[submodule "src/ml-engine/cloudml-samples"]
+	path = src/ml-engine/cloudml-samples
+	url = git@github.com:GoogleCloudPlatform/cloudml-samples.git
