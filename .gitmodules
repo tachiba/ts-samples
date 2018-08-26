@@ -1,6 +1,6 @@
-[submodule "ml-engine/getting-started-training-prediction/cloudml-samples"]
-	path = ml-engine/getting-started-training-prediction/cloudml-samples
-	url = git@github.com:GoogleCloudPlatform/cloudml-samples.git
 [submodule "ml-engine/distributed-tensorflow-mnist-cloud-datalab/cloudml-dist-mnist-example"]
 	path = ml-engine/distributed-tensorflow-mnist-cloud-datalab/cloudml-dist-mnist-example
 	url = git@github.com:GoogleCloudPlatform/cloudml-dist-mnist-example.git
+[submodule "ml-engine/cloudml-samples"]
+	path = ml-engine/cloudml-samples
+	url = git@github.com:GoogleCloudPlatform/cloudml-samples.git
