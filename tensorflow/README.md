@@ -12,6 +12,8 @@ https://classroom.udacity.com/courses/ud730
 
 ## Neural Nets
 
+* [Custom Estimators](https://www.tensorflow.org/guide/custom_estimators)
+
 ### RNN
 
 https://colah.github.io/posts/2015-08-Understanding-LSTMs/
@@ -33,8 +35,5 @@ https://medium.com/mlreview/a-simple-deep-learning-model-for-stock-price-predict
 https://github.com/vahidk/EffectiveTensorflow
 https://github.com/keras-team/keras/issues/2134
 
-Tutorials
-https://www.tensorflow.org/tutorials/
-
-DNNLinearCombinedRegressor
-https://github.com/tensorflow/models/tree/master/official/wide_deep#tensorflow-wide-deep-learning-tutorial
+* [Tutorials](https://www.tensorflow.org/tutorials/)
+* [DNNLinearCombinedRegressor](https://github.com/tensorflow/models/tree/master/official/wide_deep#tensorflow-wide-deep-learning-tutorial)
