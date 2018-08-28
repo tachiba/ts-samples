@@ -16,8 +16,13 @@ https://classroom.udacity.com/courses/ud730
 
 ### RNN
 
+https://www.tensorflow.org/tutorials/sequences/recurrent
 https://colah.github.io/posts/2015-08-Understanding-LSTMs/
-https://www.tensorflow.org/tutorials/sequences/recurrent#lstm
+http://peterroelants.github.io/posts/rnn_implementation_part01/
+
+https://qiita.com/yukiB/items/f6314d2861fc8d9b739f
+http://k17trpsynth.hatenablog.com/entry/2018/02/18/202001
+http://k17trpsynth.hatenablog.com/entry/2018/02/19/175752
 
 ### CNN
 
